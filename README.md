@@ -3,12 +3,15 @@ This repository containts an **Ethereum DApp** that demonstrates a Supply Chain 
 
  The coffee beans are harvested by the farmers, are then sold to the distributors, and the distributors then distribute them to the retailers, and finally, the consumer purchases them.
 
-## Contract Address
+## Contract Address & Transaction Details
 Contract has been deployed on rinkeby test network:
 [0x61f6e2cca26d016272f56525d20ea6740558265c](https://rinkeby.etherscan.io/address/0x61f6e2cca26d016272f56525d20ea6740558265c)
+Transaction Details:
+[0x1195c69cfe27ebdf4d8aba99603a8d6b808d53677fdbf84202e6fb1772b119cc](https://rinkeby.etherscan.io/tx/0x1195c69cfe27ebdf4d8aba99603a8d6b808d53677fdbf84202e6fb1772b119cc)
 
 ## Libraries
-There are no libraries used.
+* Truffle : `v5.2.5`: A development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier
+* Web3.js: `v1.2.1`: A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
 ## UML Diagrams
 ### Activity Diagram
